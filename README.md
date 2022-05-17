@@ -1,1 +1,1 @@
-# NewRepo
+Simple paper, rock, scissors project
